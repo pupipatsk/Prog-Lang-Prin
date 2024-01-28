@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="933e3df6-07a5-423b-a984-83f9dd06e493" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Lecture-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Lecture-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/DeleteItem.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/DeleteItem.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/DotProduct.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/DotProduct.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Filter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Filter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Flatten.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Flatten.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/LengthList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/LengthList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListAccess.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListAccess.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListIterate.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListIterate.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListMethods.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/ListMethods.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/MaxFromList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/MaxFromList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/MyListMethods.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/MyListMethods.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/MyMapOnList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/MyMapOnList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/SetExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/SetExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Setify.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Setify.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Sorted.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture03_ListRecursionSupport/Sorted.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MaMap.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MaMap.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyArray.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyArray.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyArray02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyArray02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyMap02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyMap02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyOption.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyOption.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyOption2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyOption2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MySet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MySet.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MySet02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MySet02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyString.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyString.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyTouple.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture04_DataTypes/MyTouple.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/pkg1/obj1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/pkg1/obj1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/pkg1/obj1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lecture" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bZW0lKXai3JrP5TLzQMOu5jdbD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.helloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.helloWorld">
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture01_CommonFeatures.Function" />
+      <module name="Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture01_CommonFeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture01_CommonFeatures.helloWorld" />
+      <module name="Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture01_CommonFeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.helloWorld" />
+        <item itemvalue="Application.Function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-be841094" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="933e3df6-07a5-423b-a984-83f9dd06e493" name="Changes" comment="" />
+      <created>1706422860336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706422860336</updated>
+    </task>
+    <servers />
+  </component>
+</project>
