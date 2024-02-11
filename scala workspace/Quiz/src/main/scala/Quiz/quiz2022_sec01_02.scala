@@ -2,7 +2,11 @@ package Quiz
 
 object quiz2022_sec01_02 {
   def compliment(f:Int => Int):Int => Int = {
-    (x:Int) => -f(x)
+//    (x:Int) => -f(x)
+    def f2(x:Int): Int = {
+        return -f(x)
+    }
+    f2
   }
 
   def f1(x:Int):Int ={
