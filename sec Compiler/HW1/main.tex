@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+
+\geometry{
+    left=3cm,
+    right=3cm,
+}
+
+\begin{document}
+
+\title{Homework 1}
+\author{Pupipat Singkhorn}
+\date{\today}
+\maketitle
+
+\section*{Exercise 1}
+
+\begin{enumerate}
+    \item Describes the languages denoted by the following regular expressions:
+    \begin{enumerate}
+        \item $a(a|b)^*a$\\
+        : All strings of `a' and `b' that starts and ends with `a'.
+        \item $((\varepsilon|a)b^*)^*$\\
+        : All strings of `a' and `b'.
+        \item $(a|b)^*a(a|b)(a|b)$\\
+        : All strings of `a' and `b' where the 3\textsuperscript{rd} element from the right is `a'.
+        \item $a^*ba^*ba^*ba^*$\\
+        : All strings of `a' and `b' that only contains three `b'.
+        \item $(aa|bb)^*((ab|ba)(aa|bb)^*(ab|ba)(aa|bb)^*)^*$\\
+        : All strings of `a' and `b' that has a even number of `a' and `b'.
+    \end{enumerate}
+    \item Write regular definitions for the following languages:
+    \begin{enumerate}
+        \item All strings of lowercase letters that contain the five vowels in order.
+        \\ : other $\rightarrow$ [bcdfghjklmnpqrstvwxyz]
+        \\ want $\rightarrow$ other*a(other$\mid$a)*e(other$\mid$e)*i(other$\mid$i)*o(other$\mid$o)*u(other$\mid$u)*
+        \item All strings of lowercase letters in which the letters are in ascending lexicographic order.
+        \\ : a* b* ... z*
+        \item Comments, consisting of a string surrounded by \texttt{/*} and \texttt{*/}, without an intervening \texttt{*/}, unless it is inside double-quotes (\texttt{"}).
+        \\ : 
+        \item All strings of digits with no repeated digits. Hint: Try this problem first with a few digits, such as $\{0, 1, 2\}$.
+        \\ : A $\rightarrow$ 0?2(02)*
+        \\ want $\rightarrow$ 0$\mid$A?0?1(A0?1$\mid$01)*A?0?$\mid$A0?
+        \item All strings of $a$'s and $b$'s that do not contain the substring $abb$.
+        \\ : b*(a+b?)*
+        \item All strings of $a$'s and $b$'s that do not contain the subsequence $abb$.
+        \\ : b* $\mid$ b*a+ $\mid$ b*a+ba*
+    \end{enumerate}
+    \item Write character classes for the following sets of characters:
+    \begin{enumerate}
+        \item The first ten letters (up to "j") in either upper or lower case.
+        \\ : [A-Ja-j]
+        \item The lowercase consonants.
+        \\ : [bcdfghjklmnpqrstvwxzy]
+        \item The "digits" in a hexadecimal number (choose either upper or lower case for the "digits" above 9).
+        \\ : [0-9a-f]
+        \item The characters that can appear at the end of a legitimate English sentence (e.g., comma, exclamation point).
+        \\ : [.?!]
+    \end{enumerate}
+    \item Design finite automata (deterministic or nondeterministic) for this language
+    \begin{enumerate}
+        \item All strings of digits with no repeated digits. Hint: Try this problem first with a few digits, such as $\{0, 1, 2\}$.
+        \vfill
+    \end{enumerate}
+    \item Convert the following regular expressions to deterministic finite automata:
+    \begin{enumerate}
+        \item $(a|b)^*$
+        \item $(a^*|b^*)^*$
+        \item $((\varepsilon|a)|b^*)^*$
+        \item $(a|b)^*abb(a|b)^*$
+    \end{enumerate}
+\end{enumerate}
+
+\end{document}
