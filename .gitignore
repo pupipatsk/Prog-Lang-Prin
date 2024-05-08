@@ -5,11 +5,21 @@
 2110316 Programming Languages Principles.rtf
 syllabus316_2023_term02.pdf
 Exam Preparation
-*.pptx
 sec Compiler/Slide
 sec Scala/Part B/B_Slides
-sec Theory/A2_Names__scopes__and_binding.pdf
+sec Theory/Names, scope, and binding.pdf
+sec Theory/Procedures and Activation Record.pdf
 Textbook
+*.pptx
+*.docx
+sec Compiler/Cheatsheet_Compiler-Gain.pdf
+sec Compiler/Cheatsheet_Compiler-Mark.pdf
+sec Theory/Cheatsheet_Praphas-Gain.pdf
+sec Theory/Cheatsheet_Praphas-Mark.pdf
+sec Theory/example_of_theory_quiz.pdf
+sec Scala/Quiz 2023/quiz01/Quiz_First.pdf
+sec Scala/Quiz 2023/quiz02/quiz_2.pdf
+sec Scala/Quiz 2023/quiz03/quiz_3.pdf
 
 # ------------------------------ #
 
